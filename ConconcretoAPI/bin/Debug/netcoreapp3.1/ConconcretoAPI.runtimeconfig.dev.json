@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ROXAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ROXAS\\.nuget\\packages"
+    ]
+  }
+}
